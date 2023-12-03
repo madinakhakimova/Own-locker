@@ -12,7 +12,7 @@
 
 https://github.com/madinakhakimova/Own-locker/assets/144451345/c7d60891-044c-4099-8c27-1783710328bf
 
-1.1.Обработала края на шлифовальном машинке.
+1.1.Обработка краи на шлифовальном машинке.
 
 2.Для фиксации двери было напечатано 2 [петли](https://github.com/madinakhakimova/Own-locker/tree/main/CAD) на 3D принтере
 
