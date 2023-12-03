@@ -49,6 +49,6 @@ https://github.com/madinakhakimova/Own-locker/assets/144451345/00b11fcd-a84d-4d6
 
 **Готовый шкафчик**
 
-![Img](Images/ready_door.jpg)
+![Img](Images/ready%20door.jpg)
 
 https://github.com/madinakhakimova/Own-locker/assets/144451345/ae28cfbb-8eb0-4a4e-95d1-ab51c5d739a3
